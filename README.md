@@ -1,78 +1,118 @@
- <div align="center">
-
 # Yuvraj Singh Rathore
+
+<div align="center">
 
 ### `SlightlyBetterYuvraj`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=7CFF9B&center=true&vCenter=true&width=700&lines=Exploring+ML%2C+NLP+%26+Deep+Learning;Training+models%2C+one+experiment+at+a+time;Game+dev+at+heart;Learning+by+building%2C+not+just+watching." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7CFF9B&center=true&vCenter=true&width=600&lines=Exploring+ML+%26+Deep+Learning;Building+models+from+scratch;Game+dev+at+heart;Learning+by+building." alt="Typing SVG" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-SlightlyBetterYuvraj-181717?style=for-the-badge&logo=github)](https://github.com/SlightlyBetterYuvraj)
-[![Silent Commit](https://img.shields.io/badge/Silent%20Commit-%40blacksgrasp--dev-202020?style=for-the-badge&logo=git)](https://github.com/blacksgrasp-dev)
+[GitHub](https://github.com/SlightlyBetterYuvraj) · [Silent Commit](https://github.com/blacksgrasp-dev)
 
 </div>
 
 ---
 
-## `$ whoami`
-I'm a developer exploring machine learning and deep learning, with a long-standing interest in game development.
+### About
 
-I prefer building things, experimenting with models, understanding why they work, and learning through the process.
+Developer exploring **machine learning, deep learning, and game development**.
 
-- Currently exploring **ML, NLP and artificial neural networks**
-- Building practical projects with Python and scikit-learn
-- Developing games and prototypes with Unity and C#
-- Interested in how systems work beneath the surface
+- Learning ML by implementing algorithms and building projects
+- Exploring NLP, neural networks, and model optimization
+- Building games and prototypes with Unity and C#
+- Interested in understanding how things work under the hood
 
----
+### Projects
 
-## `$ ls ./projects`
+<!-- PROJECT DISPLAY: 2 PROJECTS
+Keep the first table and remove the second table from the rendered README.
+-->
 
 <table>
 <tr>
-<td width="20%" valign="top">
+<td width="50%" valign="top">
 
-### Emotional Analysis
+**[ML Algorithms From Scratch](https://github.com/SlightlyBetterYuvraj/ml-algorithms-from-scratch)**
 
-**Text emotion classification using traditional NLP and machine learning.**
+Implementing ML algorithms from the ground up to understand their mathematics and internals.
 
-- TF-IDF and text preprocessing
-- Naive Bayes, Logistic Regression and Linear SVM
-- Pipelines and hyperparameter tuning
-- Streamlit prediction interface
-
-[**View repository →**](https://github.com/SlightlyBetterYuvraj/emotional-analysis)
+`Python` `Gradient Descent` `Linear Regression`
 
 </td>
-<td width="20%" valign="top">
+<td width="50%" valign="top">
 
-### Banking Intent Classification
+**[Emotional Analysis](https://github.com/SlightlyBetterYuvraj/emotional-analysis)**
 
-**Classifying banking customer messages into 77 intent categories.**
+Text emotion classification using traditional NLP and machine learning.
 
-- TF-IDF feature extraction
-- Artificial Neural Network using TensorFlow/Keras
-- Multiclass text classification
-- Streamlit inference interface
-
-[**View repository →**](https://github.com/SlightlyBetterYuvraj/bank-intent-classification)
+`TF-IDF` `Scikit-learn` `Streamlit`
 
 </td>
 </tr>
 </table>
 
----
+<!--
+PROJECT DISPLAY: 4 PROJECTS
+To show 4 projects instead:
+1. Remove the 2-project table above.
+2. Uncomment the table below.
+-->
 
-## `$ cat tech_stack.txt`
+<!--
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Machine Learning & Data Science**
+**[ML Algorithms From Scratch](https://github.com/SlightlyBetterYuvraj/ml-algorithms-from-scratch)**
+
+Building ML algorithms from scratch to understand their internals.
+
+`Python` `Linear Regression`
+
+</td>
+<td width="50%" valign="top">
+
+**[Emotional Analysis](https://github.com/SlightlyBetterYuvraj/emotional-analysis)**
+
+Text emotion classification with traditional NLP and ML.
+
+`TF-IDF` `Scikit-learn` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Banking Intent Classification](https://github.com/SlightlyBetterYuvraj/bank-intent-classification)**
+
+Classifying banking customer messages into 77 intent categories.
+
+`TensorFlow` `NLP` `ANN`
+
+</td>
+<td width="50%" valign="top">
+
+**[Project Four](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)**
+
+Replace this with another project you want to showcase.
+
+`Technology` `Technology`
+
+</td>
+</tr>
+</table>
+-->
+
+### Tech Stack
+
+**ML / Data Science**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**Development & Game Tech**
+**Development**
 
 ![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white)
@@ -83,30 +123,15 @@ I prefer building things, experimenting with models, understanding why they work
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
-## `$ git log --oneline`
-
-> Learn something.
->
-> Build something.
->
-> Break something.
->
-> Figure out why.
->
-> Repeat.
-
----
-
-## `$ contributions`
+### Contributions
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SlightlyBetterYuvraj&bg_color=0d1117&color=7CFF9B&line=7CFF9B&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
 
 </div>
 
@@ -114,10 +139,8 @@ I prefer building things, experimenting with models, understanding why they work
 
 <div align="center">
 
-**Catch me building, experimenting, or debugging something.**
-
 `Silent Commit → @blacksgrasp-dev`
 
-<sub>Built with curiosity. Improved with every commit.</sub>
+<sub>Learn. Build. Debug. Repeat.</sub>
 
 </div>
