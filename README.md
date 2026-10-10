@@ -14,19 +14,6 @@
 ---
 
 ## `$ whoami`
-
-```python
-class Yuvraj:
-    def __init__(self):
-        self.current_focus = ["Machine Learning", "NLP", "Deep Learning"]
-        self.also_into = ["Game Development", "Unity", "C#"]
-        self.learning = ["Neural Networks", "Model Optimization"]
-        self.mindset = "Learn by building"
-
-    def currently_doing(self):
-        return "Turning concepts into working projects"
-```
-
 I'm a developer exploring machine learning and deep learning, with a long-standing interest in game development.
 
 I prefer building things, experimenting with models, understanding why they work, and learning through the process.
@@ -42,7 +29,7 @@ I prefer building things, experimenting with models, understanding why they work
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="20%" valign="top">
 
 ### Emotional Analysis
 
@@ -56,7 +43,7 @@ I prefer building things, experimenting with models, understanding why they work
 [**View repository →**](https://github.com/SlightlyBetterYuvraj/emotional-analysis)
 
 </td>
-<td width="50%" valign="top">
+<td width="20%" valign="top">
 
 ### Banking Intent Classification
 
